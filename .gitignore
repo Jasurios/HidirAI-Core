@@ -1,0 +1,5 @@
+/database/maindb.db
+/users
+config.env
+keys.txt
+server.log
